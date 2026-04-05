@@ -1,5 +1,5 @@
-## Hi there 👋 
-![Blinking Hi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=Hi+there+!;Welcome+to+my+profile!)
+## Vincent Depaudhon 
+![Hi There](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7FFFD4&center=true&vCenter=true&width=435&lines=Hi+there+!+✨)
 <!--
 **DarkShadsi/darkshadsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
