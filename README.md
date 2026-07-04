@@ -9,7 +9,7 @@
 <div data-importer="stats" align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=DarkShadsi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DarkShadsi&layout=compact&card_width=320&langs_count=5&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DarkShadsi&layout=compact&card_width=280&langs_count=5&theme=tokyonight" height="150" alt="languages graph" />
 </div>
 
 ###
