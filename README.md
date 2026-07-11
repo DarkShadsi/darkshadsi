@@ -53,3 +53,9 @@
 </div>
 
 ###
+
+<div data-importer="streak" align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadsi&theme=tokyonight&hide_border=true" height="150" alt="github streak stats" />
+</div>
+
+###
