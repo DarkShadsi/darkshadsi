@@ -1,5 +1,5 @@
 <h3 data-importer="text" align="left">Hi 👋! My name is Vincent and I'm a 3rd year Computer Science student in University of the Philippines Tacloban.</h3>
-<a href="https://darkshadsi.github.io" target="_blank"><h4>🔗My Personal Portfolio</h4></a>
+<h4>My Personal Portfolio: https://darkshadsi.github.io</h4>
 
 ###
 
