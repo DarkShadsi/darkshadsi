@@ -1,9 +1,7 @@
-<h3 data-importer="text" align="left" style="color: #00dd78; font-family: 'Courier New', Courier, monospace;">Hi 👋! My name is Vincent and I'm a 3rd year Computer Science student in University of the Philippines Tacloban.</h3>
-<h4>
-    <a href="https://darkshadsi.github.io" style="color: #ffffff; text-decoration: none; font-family: 'Courier New', Courier, monospace;">
-        My Personal Portfolio: <span style="color: #00dd78;">https://darkshadsi.github.io</span>
-    </a>
-</h4>
+<h3 data-importer="text" align="left">
+  $$\color{#00dd78}\text{Hi 👋! My name is Vincent and I'm a 3rd year Computer Science student in University of the Philippines Tacloban.}$$
+</h3>
+<h4 >My Personal Portfolio: https://darkshadsi.github.io</h4>
 
 ###
 
