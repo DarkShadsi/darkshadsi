@@ -10,7 +10,7 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=DarkShadsi&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00dd78&icon_color=00dd78&text_color=a9b3c4&border_color=154415" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DarkShadsi&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00dd78&icon_color=00dd78&text_color=a9b3c4&border_color=154415" height=150 />
   
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DarkShadsi&layout=compact&langs_count=6&bg_color=000000&title_color=00dd78&icon_color=00dd78&text_color=a9b3c4&border_color=154415" height="150" alt="languages graph" />
 </div>
