@@ -1,5 +1,9 @@
-<h3 data-importer="text" align="left">Hi 👋! My name is Vincent and I'm a 3rd year Computer Science student in University of the Philippines Tacloban.</h3>
-<h4>My Personal Portfolio: https://darkshadsi.github.io</h4>
+<h3 data-importer="text" align="left" style="color: #00dd78; font-family: 'Courier New', Courier, monospace;">Hi 👋! My name is Vincent and I'm a 3rd year Computer Science student in University of the Philippines Tacloban.</h3>
+<h4>
+    <a href="https://darkshadsi.github.io" style="color: #ffffff; text-decoration: none; font-family: 'Courier New', Courier, monospace;">
+        My Personal Portfolio: <span style="color: #00dd78;">https://darkshadsi.github.io</span>
+    </a>
+</h4>
 
 ###
 
@@ -8,9 +12,9 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DarkShadsi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DarkShadsi&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00dd78&icon_color=00dd78&text_color=a9b3c4&border_color=154415" />
   
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DarkShadsi&layout=compact&card_width=280&langs_count=5&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DarkShadsi&layout=compact&langs_count=6&bg_color=000000&title_color=00dd78&icon_color=00dd78&text_color=a9b3c4&border_color=154415" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -45,17 +49,17 @@
 
 <div data-importer="socials" align="left">
   <a href="mailto:depaudhonvincent24@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=00dd78&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/vincent-depaudhon-b65846382" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00dd78&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
 ###
 
 <div data-importer="streak" align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkShadsi&theme=tokyonight&hide_border=true" height="150" alt="github streak stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarkShadsi&background=000000&ring=00dd78&fire=00dd78&currStreakNum=00dd78&sideNums=00dd78&currStreakLabel=00dd78&sideLabels=00dd78&dates=a9b3c4&border=00dd78" alt="GitHub Streak" /></a>
 </div>
 
 ###
