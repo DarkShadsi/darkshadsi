@@ -57,7 +57,7 @@
 ###
 
 <div data-importer="streak" align="left">
-  <img src="https://streak-stats.demolab.com?user=DarkShadsi&background=000000&ring=00dd78&fire=00dd78&currStreakNum=00dd78&sideNums=00dd78&currStreakLabel=00dd78&sideLabels=00dd78&dates=a9b3c4&border=00dd78" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-neon-eta.vercel.app?user=DarkShadsi&background=000000&ring=00dd78&fire=00dd78&currStreakNum=00dd78&sideNums=00dd78&currStreakLabel=00dd78&sideLabels=00dd78&dates=a9b3c4&border=00dd78" alt="GitHub Streak" />
 </div>
 
 ###
